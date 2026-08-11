@@ -5,9 +5,7 @@
 [![GitHub](https://img.shields.io/badge/-adeliusa486-%23181717?style=flat-square&logo=github)](https://github.com/adeliusa486)
 [![Email](https://img.shields.io/badge/-443057803%40stu.iu.edu.sa-%23EA4335?style=flat-square&logo=gmail&logoColor=ffffff)](mailto:443057803@stu.iu.edu.sa)
 
-I like 𝘾𝙮𝙗𝙚𝙧𝙨𝙚𝙘𝙪𝙧𝙞𝙩𝙮, 𝘼𝙄 & 𝙉𝙚𝙩𝙬𝙤𝙧𝙠𝙨!
-
-🛡️ Working on 𝙣𝙚𝙩𝙬𝙤𝙧𝙠𝙨, Cybersecurity and AI.
+Like to research in 𝘾𝙮𝙗𝙚𝙧𝙨𝙚𝙘𝙪𝙧𝙞𝙩𝙮, 𝘼𝙄 & 𝙉𝙚𝙩𝙬𝙤𝙧𝙠𝙨!
 
 🎓 IT student at **IUM** on a fully-funded **Saudi Government scholarship** &nbsp;·&nbsp;📍Saudi Arabia
 🔭 Focused on **Explainable AI**, **Federated Learning** & **Edge Caching**
