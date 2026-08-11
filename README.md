@@ -101,10 +101,6 @@ currently:   Hands-on cybersecurity labs on TryHackMe + AWS SAA & CCNA prep
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=adeliusa486&bg_color=fcf5e6&color=192a3f&line=df563e&point=2a8f96&area_color=f8e2d8&area=true&hide_border=true&custom_title=My%20Contribution%20Activity" alt="activity graph"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=adeliusa486&theme=flat&no-frame=true&margin-w=8&column=7"/>
-</p>
-
 ## 🌟 Featured Projects
 
 <table>
