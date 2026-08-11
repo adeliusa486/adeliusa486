@@ -34,27 +34,17 @@
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸
 
-![Python](https://img.shields.io/badge/-Python-%233776AB?style=flat-square&logo=python&logoColor=ffffff)
-![Java](https://img.shields.io/badge/-Java-%23ED8B00?style=flat-square&logo=openjdk&logoColor=ffffff)
-![SQL](https://img.shields.io/badge/-SQL-%234479A1?style=flat-square&logo=mysql&logoColor=ffffff)
-![PyTorch](https://img.shields.io/badge/-PyTorch-%23EE4C2C?style=flat-square&logo=pytorch&logoColor=ffffff)
-![scikit-learn](https://img.shields.io/badge/-scikit--learn-%23F7931E?style=flat-square&logo=scikitlearn&logoColor=ffffff)
-![OpenCV](https://img.shields.io/badge/-OpenCV-%235C3EE8?style=flat-square&logo=opencv&logoColor=ffffff)
-![NumPy](https://img.shields.io/badge/-NumPy-%23013243?style=flat-square&logo=numpy&logoColor=ffffff)
+<p>
+  <img src="https://skillicons.dev/icons?i=py,java,mysql,pytorch,sklearn,opencv,aws,docker,linux,terraform,ansible,git,bash&perline=7" alt="Tech stack" />
+</p>
 
-![CCNA](https://img.shields.io/badge/-Cisco%20CCNA-%231BA0D7?style=flat-square&logo=cisco&logoColor=ffffff)
-![GNS3](https://img.shields.io/badge/-GNS3-%23009639?style=flat-square&logo=gns3&logoColor=ffffff)
-![Packet Tracer](https://img.shields.io/badge/-Packet%20Tracer-%23005073?style=flat-square&logo=cisco&logoColor=ffffff)
-![SUMO](https://img.shields.io/badge/-SUMO-%23FBB040?style=flat-square&logo=eclipseide&logoColor=000000)
-![Wireshark](https://img.shields.io/badge/-Wireshark-%231679A7?style=flat-square&logo=wireshark&logoColor=ffffff)
+**Networking &amp; Simulation**
 
-![AWS](https://img.shields.io/badge/-AWS-%23232F3E?style=flat-square&logo=amazonwebservices&logoColor=ffffff)
-![CloudFormation](https://img.shields.io/badge/-CloudFormation-%23FF4F8B?style=flat-square&logo=amazonaws&logoColor=ffffff)
-![Terraform](https://img.shields.io/badge/-Terraform-%237B42BC?style=flat-square&logo=terraform&logoColor=ffffff)
-![Ansible](https://img.shields.io/badge/-Ansible-%23EE0000?style=flat-square&logo=ansible&logoColor=ffffff)
-![Docker](https://img.shields.io/badge/-Docker-%232496ED?style=flat-square&logo=docker&logoColor=ffffff)
-![Linux](https://img.shields.io/badge/-Linux-%23FCC624?style=flat-square&logo=linux&logoColor=000000)
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=ffffff)
+![CCNA](https://img.shields.io/badge/-Cisco%20CCNA-%231BA0D7?style=for-the-badge&logo=cisco&logoColor=ffffff)
+![GNS3](https://img.shields.io/badge/-GNS3-%23009639?style=for-the-badge&logo=gns3&logoColor=ffffff)
+![Packet Tracer](https://img.shields.io/badge/-Packet%20Tracer-%23005073?style=for-the-badge&logo=cisco&logoColor=ffffff)
+![Wireshark](https://img.shields.io/badge/-Wireshark-%231679A7?style=for-the-badge&logo=wireshark&logoColor=ffffff)
+![SUMO](https://img.shields.io/badge/-SUMO-%23FBB040?style=for-the-badge&logo=eclipseide&logoColor=000000)
 
 ## 𝗦𝘁𝗮𝘁𝘀
 
