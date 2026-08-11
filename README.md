@@ -1,7 +1,5 @@
 # 𝙃𝙚𝙡𝙡𝙤, 𝙄'𝙢 𝘼𝙙𝙚𝙚𝙡 𝘼𝙝𝙢𝙖𝙙 👋
 
-
-
 [![Portfolio](https://img.shields.io/badge/-Portfolio-%23df563e?style=flat-square&logo=googlechrome&logoColor=ffffff)](https://adeliusa486.github.io)
 [![LinkedIn](https://img.shields.io/badge/-adeel--ahmad-%230A66C2?style=flat-square&logo=linkedin&logoColor=ffffff)](https://linkedin.com/in/adeel-ahmad-5a041b237)
 [![GitHub](https://img.shields.io/badge/-adeliusa486-%23181717?style=flat-square&logo=github)](https://github.com/adeliusa486)
@@ -13,15 +11,33 @@
 🛡️ 𝙍𝙚𝙨𝙚𝙖𝙧𝙘𝙝𝙚𝙧 𝙗𝙪𝙞𝙡𝙙𝙞𝙣𝙜 𝙩𝙧𝙪𝙨𝙩𝙬𝙤𝙧𝙩𝙝𝙮 𝘼𝙄 𝙛𝙤𝙧 𝙘𝙧𝙞𝙩𝙞𝙘𝙖𝙡 𝙣𝙚𝙩𝙬𝙤𝙧𝙠𝙨.
 
 🎓 IT student at **IUM** on a fully-funded **Saudi Government scholarship** &nbsp;·&nbsp; 📍 Madinah, Saudi Arabia
-🔭 Focused on **Explainable AI**, **Federated Learning** & **Edge Caching** &nbsp;·&nbsp; 
+🔭 Focused on **Explainable AI**, **Federated Learning** & **Edge Caching**
 🌱 Currently doing hands-on **TryHackMe** cybersecurity labs + **AWS SAA** & **CCNA** prep
 
-## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
+## 𝗙𝗲𝗮𝘁𝘂𝗿𝗲𝗱 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀  ·  𝗣𝗮𝗽𝗲𝗿 𝗔𝗿𝗰𝗵𝗶𝘁𝗲𝗰𝘁𝘂𝗿𝗲𝘀
 
-[![XAI-SDN](https://svg.bookmark.style/api?url=https://github.com/adeliusa486/XAI-SDN&mode=light&style=horizontal)](https://github.com/adeliusa486/XAI-SDN)
-[![TrajectoryCache](https://svg.bookmark.style/api?url=https://github.com/adeliusa486/TrajectoryCache&mode=light&style=horizontal)](https://github.com/adeliusa486/TrajectoryCache)
-[![cxai-rca](https://svg.bookmark.style/api?url=https://github.com/adeliusa486/cxai-rca&mode=light&style=horizontal)](https://github.com/adeliusa486/cxai-rca)
-[![oran-fed-robust](https://svg.bookmark.style/api?url=https://github.com/adeliusa486/oran-fed-robust&mode=light&style=horizontal)](https://github.com/adeliusa486/oran-fed-robust)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/adeliusa486/XAI-SDN"><img src="./assets/xai-sdn-arch.jpeg" alt="XAI-SDN architecture"/></a>
+      <p><b>XAI-SDN — Explainable DDoS Detection</b><br/>Flow collection → O(1) rolling-entropy features → Random Forest → SHAP explanations, feeding a real-time SDN mitigation loop.</p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/adeliusa486/TrajectoryCache"><img src="./assets/trajectorycache-arch.png" alt="TrajectoryCache architecture"/></a>
+      <p><b>TrajectoryCache — Vehicular Edge Caching</b><br/>Balancing spatial urgency and content popularity for V2X edge caching, with sub-43µs eviction decisions.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/adeliusa486/Adaptive-Multi-Factor-Trust-Aggregation-for-Byzantine-Robust-Federated-Learning-in-IoT-Networks"><img src="./assets/fedlearning-arch.png" alt="Federated learning trust aggregation architecture"/></a>
+      <p><b>Byzantine-Robust Federated Learning</b><br/>A cloud trust engine combining cosine similarity and historical reputation to defend IoT federated learning against poisoning.</p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/adeliusa486/cxai-rca"><img src="./assets/cxai-rca-arch.png" alt="Causal-XAI root-cause analysis pipeline"/></a>
+      <p><b>CXAI-RCA — Causal Root-Cause Analysis</b><br/>Graph construction → GraphSAGE intrusion detection → NOTEARS causal discovery → SHAP + counterfactual reporting.</p>
+    </td>
+  </tr>
+</table>
 
 ## 𝗣𝘂𝗯𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻𝘀
 
