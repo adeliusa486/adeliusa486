@@ -59,8 +59,7 @@
 ## 𝗦𝘁𝗮𝘁𝘀
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=adeliusa486&show_icons=true&hide_border=true&title_color=df563e&icon_color=2a8f96&text_color=5d6a7a&bg_color=fcf5e6&count_private=true&cache_seconds=1800"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adeliusa486&layout=compact&hide_border=true&title_color=df563e&text_color=5d6a7a&bg_color=fcf5e6&langs_count=6"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=adeliusa486&hide_border=true&background=FCF5E6&stroke=192a3f&ring=df563e&fire=df563e&currStreakLabel=2a8f96&sideLabels=192a3f&dates=5d6a7a&sideNums=192a3f&currStreakNum=192a3f" alt="streak"/>
 </p>
 
 <p align="center">
