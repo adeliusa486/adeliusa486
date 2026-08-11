@@ -50,8 +50,8 @@ I like 𝘾𝙮𝙗𝙚𝙧𝙨𝙚𝙘𝙪𝙧𝙞𝙩𝙮, 𝘼𝙄 & 𝙉𝙚
 |:------:|-------|-------|
 | 🟢 **Accepted** | Privacy Leakage in Federated Learning: Gradient-Based Client Identity Inference &amp; Defense Analysis | IEEE VTC2026-Fall |
 | 🟡 **Peer Review** | Balancing Spatial Urgency &amp; Content Popularity for Edge Caching in Vehicular Networks | Springer Nature — Discover Telecommunications |
-| ⚪ **Submitted** | XAI-SDN: Lightweight, Interpretable DDoS Detection for SDN | Journal (awaiting decision) |
-| ⚪ **Submitted** | Adaptive Multi-Factor Trust Aggregation for Byzantine-Robust Federated Learning in IoT | Journal (awaiting decision) |
+| ⚪ **Under Review** | XAI-SDN: Lightweight, Interpretable DDoS Detection for SDN | Journal (awaiting decision) |
+| ⚪ **Under Review** | Adaptive Multi-Factor Trust Aggregation for Byzantine-Robust Federated Learning in IoT | Journal (awaiting decision) |
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸
 
