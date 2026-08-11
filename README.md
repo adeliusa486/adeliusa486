@@ -19,8 +19,8 @@
 ## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
 
 [![XAI-SDN](https://svg.bookmark.style/api?url=https://github.com/adeliusa486/XAI-SDN&mode=light&style=horizontal)](https://github.com/adeliusa486/XAI-SDN)
-[![TrajectoryCache](https://svg.bookmark.style/api?url=https://github.com/adeliusa486/TrajectoryCache&mode=dark&style=horizontal)](https://github.com/adeliusa486/TrajectoryCache)
-[![cxai-rca](https://svg.bookmark.style/api?url=https://github.com/adeliusa486/cxai-rca&mode=dark&style=horizontal)](https://github.com/adeliusa486/cxai-rca)
+[![TrajectoryCache](https://svg.bookmark.style/api?url=https://github.com/adeliusa486/TrajectoryCache&mode=light&style=horizontal)](https://github.com/adeliusa486/TrajectoryCache)
+[![cxai-rca](https://svg.bookmark.style/api?url=https://github.com/adeliusa486/cxai-rca&mode=light&style=horizontal)](https://github.com/adeliusa486/cxai-rca)
 [![oran-fed-robust](https://svg.bookmark.style/api?url=https://github.com/adeliusa486/oran-fed-robust&mode=light&style=horizontal)](https://github.com/adeliusa486/oran-fed-robust)
 
 ## 𝗣𝘂𝗯𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻𝘀
@@ -59,8 +59,8 @@
 ## 𝗦𝘁𝗮𝘁𝘀
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=adeliusa486&show_icons=true&hide_border=true&title_color=df563e&icon_color=2a8f96&text_color=555&count_private=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adeliusa486&layout=compact&hide_border=true&title_color=df563e&langs_count=8"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=adeliusa486&show_icons=true&hide_border=true&title_color=df563e&icon_color=2a8f96&text_color=5d6a7a&bg_color=fcf5e6&count_private=true&cache_seconds=1800"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adeliusa486&layout=compact&hide_border=true&title_color=df563e&text_color=5d6a7a&bg_color=fcf5e6&langs_count=6"/>
 </p>
 
 <p align="center">
