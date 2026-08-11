@@ -1,55 +1,29 @@
-<!-- ═══════════════ BANNER ═══════════════ -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:df563e,100:2a8f96&height=210&section=header&text=Adeel%20Ahmad&fontColor=ffffff&fontSize=54&fontAlignY=36&desc=Cybersecurity%20%C2%B7%20AI%20%C2%B7%20Networks&descAlignY=58&descSize=20" alt="banner"/>
-</p>
+<img align="right" width="230" src="https://raw.githubusercontent.com/adeliusa486/adeliusa486/main/profile.jpg" alt="Adeel Ahmad" />
 
-<!-- ═══════════════ TYPING ═══════════════ -->
-<p align="center">
-  <a href="https://adeliusa486.github.io">
-    <img src="https://readme-typing-svg.demolab.com?font=Fraunces&weight=600&size=24&pause=1000&color=DF563E&center=true&vCenter=true&width=680&lines=Working+at+the+intersection+of+cybersecurity%2C+AI+%26+networks;Explainable+AI+%7C+Federated+Learning+%7C+Edge+Caching;Seeking+a+fully-funded+PhD+position" alt="Typing SVG" />
-  </a>
-</p>
+# 𝙃𝙚𝙡𝙡𝙤, 𝙄'𝙢 𝘼𝙙𝙚𝙚𝙡 𝘼𝙝𝙢𝙖𝙙
 
-<!-- ═══════════════ SOCIAL ═══════════════ -->
-<p align="center">
-  <a href="https://adeliusa486.github.io"><img src="https://img.shields.io/badge/Portfolio-adeliusa486.github.io-df563e?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
-  <a href="https://linkedin.com/in/adeel-ahmad-5a041b237"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:443057803@stu.iu.edu.sa"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <img src="https://komarev.com/ghpvc/?username=adeliusa486&style=for-the-badge&color=2a8f96&label=PROFILE+VIEWS"/>
-</p>
+[![Portfolio](https://img.shields.io/badge/-Portfolio-%23df563e?style=flat-square&logo=googlechrome&logoColor=ffffff)](https://adeliusa486.github.io)
+[![LinkedIn](https://img.shields.io/badge/-adeel--ahmad-%230A66C2?style=flat-square&logo=linkedin&logoColor=ffffff)](https://linkedin.com/in/adeel-ahmad-5a041b237)
+[![GitHub](https://img.shields.io/badge/-adeliusa486-%23181717?style=flat-square&logo=github)](https://github.com/adeliusa486)
+[![Email](https://img.shields.io/badge/-443057803%40stu.iu.edu.sa-%23EA4335?style=flat-square&logo=gmail&logoColor=ffffff)](mailto:443057803@stu.iu.edu.sa)
+[![Profile Views](https://komarev.com/ghpvc/?username=adeliusa486&style=flat-square&color=2a8f96&label=views)](https://github.com/adeliusa486)
 
----
+𝙄 ❤️ 𝘾𝙮𝙗𝙚𝙧𝙨𝙚𝙘𝙪𝙧𝙞𝙩𝙮, 𝘼𝙄 & 𝙉𝙚𝙩𝙬𝙤𝙧𝙠𝙨!
 
-## 👋 About Me
+🛡️ 𝙍𝙚𝙨𝙚𝙖𝙧𝙘𝙝𝙚𝙧 𝙗𝙪𝙞𝙡𝙙𝙞𝙣𝙜 𝙩𝙧𝙪𝙨𝙩𝙬𝙤𝙧𝙩𝙝𝙮 𝘼𝙄 𝙛𝙤𝙧 𝙘𝙧𝙞𝙩𝙞𝙘𝙖𝙡 𝙣𝙚𝙩𝙬𝙤𝙧𝙠𝙨.
 
-```yaml
-name:        Adeel Ahmad
-role:        IT Researcher  —  Cybersecurity · AI · Networks
-university:  Islamic University of Madinah (IUM)   # fully-funded Saudi Govt. scholarship
-location:    Madinah, Saudi Arabia
-focus:       Trustworthy, private & explainable AI for critical networks
-goal:        Fully-funded PhD position
-currently:   Hands-on cybersecurity labs on TryHackMe + AWS SAA & CCNA prep
-```
+🎓 IT student at **IUM** on a fully-funded **Saudi Government scholarship** &nbsp;·&nbsp; 📍 Madinah, Saudi Arabia
+🔭 Focused on **Explainable AI**, **Federated Learning** & **Edge Caching** &nbsp;·&nbsp; 🚀 Seeking a **fully-funded PhD**
+🌱 Currently doing hands-on **TryHackMe** cybersecurity labs + **AWS SAA** & **CCNA** prep
 
-## 🔬 Research Interests
+## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
 
-<table>
-  <tr>
-    <td>🛡️ <b>Cybersecurity &amp; Explainable AI</b></td>
-    <td>🤝 <b>Federated Learning</b> (robust &amp; Byzantine-resilient)</td>
-  </tr>
-  <tr>
-    <td>🔐 <b>Privacy-Preserving Machine Learning</b></td>
-    <td>🌐 <b>Software-Defined &amp; Next-Gen Networks</b></td>
-  </tr>
-  <tr>
-    <td>☁️ <b>Cloud Computing &amp; Edge Intelligence</b></td>
-    <td>📡 <b>Vehicular Networks &amp; Edge Caching</b></td>
-  </tr>
-</table>
+[![XAI-SDN](https://svg.bookmark.style/api?url=https://github.com/adeliusa486/XAI-SDN&mode=light&style=horizontal)](https://github.com/adeliusa486/XAI-SDN)
+[![TrajectoryCache](https://svg.bookmark.style/api?url=https://github.com/adeliusa486/TrajectoryCache&mode=dark&style=horizontal)](https://github.com/adeliusa486/TrajectoryCache)
+[![cxai-rca](https://svg.bookmark.style/api?url=https://github.com/adeliusa486/cxai-rca&mode=dark&style=horizontal)](https://github.com/adeliusa486/cxai-rca)
+[![oran-fed-robust](https://svg.bookmark.style/api?url=https://github.com/adeliusa486/oran-fed-robust&mode=light&style=horizontal)](https://github.com/adeliusa486/oran-fed-robust)
 
-## 📚 Publications
+## 𝗣𝘂𝗯𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻𝘀
 
 | Status | Paper | Venue |
 |:------:|-------|-------|
@@ -58,83 +32,37 @@ currently:   Hands-on cybersecurity labs on TryHackMe + AWS SAA & CCNA prep
 | ⚪ **Submitted** | XAI-SDN: Lightweight, Interpretable DDoS Detection for SDN | Journal (awaiting decision) |
 | ⚪ **Submitted** | Adaptive Multi-Factor Trust Aggregation for Byzantine-Robust Federated Learning in IoT | Journal (awaiting decision) |
 
-## 🛠️ Tech Stack
+## 𝗠𝘆 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸
 
-**Languages &amp; ML**
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
-</p>
+![Python](https://img.shields.io/badge/-Python-%233776AB?style=flat-square&logo=python&logoColor=ffffff)
+![Java](https://img.shields.io/badge/-Java-%23ED8B00?style=flat-square&logo=openjdk&logoColor=ffffff)
+![SQL](https://img.shields.io/badge/-SQL-%234479A1?style=flat-square&logo=mysql&logoColor=ffffff)
+![PyTorch](https://img.shields.io/badge/-PyTorch-%23EE4C2C?style=flat-square&logo=pytorch&logoColor=ffffff)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-%23F7931E?style=flat-square&logo=scikitlearn&logoColor=ffffff)
+![OpenCV](https://img.shields.io/badge/-OpenCV-%235C3EE8?style=flat-square&logo=opencv&logoColor=ffffff)
+![NumPy](https://img.shields.io/badge/-NumPy-%23013243?style=flat-square&logo=numpy&logoColor=ffffff)
 
-**Networking &amp; Simulation**
-<p>
-<img src="https://img.shields.io/badge/Cisco%20CCNA-1BA0D7?style=flat-square&logo=cisco&logoColor=white"/>
-<img src="https://img.shields.io/badge/GNS3-009639?style=flat-square&logo=gns3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Packet%20Tracer-005073?style=flat-square&logo=cisco&logoColor=white"/>
-<img src="https://img.shields.io/badge/SUMO-FBB040?style=flat-square&logo=eclipseide&logoColor=black"/>
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white"/>
-</p>
+![CCNA](https://img.shields.io/badge/-Cisco%20CCNA-%231BA0D7?style=flat-square&logo=cisco&logoColor=ffffff)
+![GNS3](https://img.shields.io/badge/-GNS3-%23009639?style=flat-square&logo=gns3&logoColor=ffffff)
+![Packet Tracer](https://img.shields.io/badge/-Packet%20Tracer-%23005073?style=flat-square&logo=cisco&logoColor=ffffff)
+![SUMO](https://img.shields.io/badge/-SUMO-%23FBB040?style=flat-square&logo=eclipseide&logoColor=000000)
+![Wireshark](https://img.shields.io/badge/-Wireshark-%231679A7?style=flat-square&logo=wireshark&logoColor=ffffff)
 
-**Cloud &amp; DevOps**
-<p>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"/>
-<img src="https://img.shields.io/badge/CloudFormation-FF4F8B?style=flat-square&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"/>
-<img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-</p>
+![AWS](https://img.shields.io/badge/-AWS-%23232F3E?style=flat-square&logo=amazonwebservices&logoColor=ffffff)
+![CloudFormation](https://img.shields.io/badge/-CloudFormation-%23FF4F8B?style=flat-square&logo=amazonaws&logoColor=ffffff)
+![Terraform](https://img.shields.io/badge/-Terraform-%237B42BC?style=flat-square&logo=terraform&logoColor=ffffff)
+![Ansible](https://img.shields.io/badge/-Ansible-%23EE0000?style=flat-square&logo=ansible&logoColor=ffffff)
+![Docker](https://img.shields.io/badge/-Docker-%232496ED?style=flat-square&logo=docker&logoColor=ffffff)
+![Linux](https://img.shields.io/badge/-Linux-%23FCC624?style=flat-square&logo=linux&logoColor=000000)
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=ffffff)
 
-## 📊 GitHub Stats
+## 𝗦𝘁𝗮𝘁𝘀
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=adeliusa486&show_icons=true&hide_border=true&title_color=df563e&icon_color=2a8f96&text_color=555&count_private=true"/>
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adeliusa486&layout=compact&hide_border=true&title_color=df563e&langs_count=8"/>
 </p>
 
-<!-- ACTIVITY GRAPH — a rich line chart of my coding activity -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adeliusa486&bg_color=fcf5e6&color=192a3f&line=df563e&point=2a8f96&area_color=f8e2d8&area=true&hide_border=true&custom_title=My%20Contribution%20Activity" alt="activity graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adeliusa486&bg_color=fcf5e6&color=192a3f&line=df563e&point=2a8f96&area_color=f8e2d8&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="activity graph"/>
 </p>
-
-## 🌟 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">XAI-SDN</h3>
-      <p align="center">Explainable DDoS detection in SDN — 99.99% accuracy with SHAP, served via FastAPI + Streamlit.</p>
-      <p align="center"><a href="https://github.com/adeliusa486/XAI-SDN"><img src="https://img.shields.io/badge/View-Repo-df563e?style=for-the-badge&logo=github&logoColor=white"/></a></p>
-    </td>
-    <td width="50%">
-      <h3 align="center">TrajectoryCache</h3>
-      <p align="center">Mobility-aware V2X content caching with SUMO-style simulation and a Dockerized REST API.</p>
-      <p align="center"><a href="https://github.com/adeliusa486/TrajectoryCache"><img src="https://img.shields.io/badge/View-Repo-df563e?style=for-the-badge&logo=github&logoColor=white"/></a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">smart-obstacle-cane</h3>
-      <p align="center">AI assistive cane on Raspberry Pi (hackathon acceleration phase).</p>
-      <p align="center"><a href="https://github.com/adeliusa486/smart-obstacle-cane"><img src="https://img.shields.io/badge/View-Repo-2a8f96?style=for-the-badge&logo=github&logoColor=white"/></a></p>
-    </td>
-    <td width="50%">
-      <h3 align="center">oran-fed-robust</h3>
-      <p align="center">Byzantine-robust federated learning for O-RAN intelligence.</p>
-      <p align="center"><a href="https://github.com/adeliusa486/oran-fed-robust"><img src="https://img.shields.io/badge/View-Repo-2a8f96?style=for-the-badge&logo=github&logoColor=white"/></a></p>
-    </td>
-  </tr>
-</table>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2a8f96,100:df563e&height=120&section=footer&text=Open%20to%20research%20%26%20PhD%20opportunities&fontColor=ffffff&fontSize=18&fontAlignY=70"/>
-</p>
-
-
-
