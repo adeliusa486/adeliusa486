@@ -1,6 +1,6 @@
 # 𝙃𝙚𝙡𝙡𝙤, 𝙄'𝙢 𝘼𝙙𝙚𝙚𝙡 𝘼𝙝𝙢𝙖𝙙 👋
 
-<img align="right" width="230" src="https://raw.githubusercontent.com/adeliusa486/adeliusa486/main/profile.jpg" alt="Adeel Ahmad" />
+
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-%23df563e?style=flat-square&logo=googlechrome&logoColor=ffffff)](https://adeliusa486.github.io)
 [![LinkedIn](https://img.shields.io/badge/-adeel--ahmad-%230A66C2?style=flat-square&logo=linkedin&logoColor=ffffff)](https://linkedin.com/in/adeel-ahmad-5a041b237)
