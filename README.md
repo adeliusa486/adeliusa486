@@ -9,7 +9,7 @@ I like 𝘾𝙮𝙗𝙚𝙧𝙨𝙚𝙘𝙪𝙧𝙞𝙩𝙮, 𝘼𝙄 & 𝙉𝙚
 
 🛡️ 𝙍𝙚𝙨𝙚𝙖𝙧𝙘𝙝𝙚𝙧 𝙗𝙪𝙞𝙡𝙙𝙞𝙣𝙜 𝙩𝙧𝙪𝙨𝙩𝙬𝙤𝙧𝙩𝙝𝙮 𝘼𝙄 𝙛𝙤𝙧 𝙘𝙧𝙞𝙩𝙞𝙘𝙖𝙡 𝙣𝙚𝙩𝙬𝙤𝙧𝙠𝙨.
 
-🎓 IT student at **IUM** on a fully-funded **Saudi Government scholarship** &nbsp;·&nbsp; 📍Saudi Arabia
+🎓 IT student at **IUM** on a fully-funded **Saudi Government scholarship** &nbsp;·&nbsp;📍Saudi Arabia
 🔭 Focused on **Explainable AI**, **Federated Learning** & **Edge Caching**
 🌱 Currently doing hands-on **TryHackMe** cybersecurity labs + **AWS SAA** & **CCNA** prep
 
