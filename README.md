@@ -139,3 +139,5 @@ currently:   Hands-on cybersecurity labs on TryHackMe + AWS SAA & CCNA prep
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2a8f96,100:df563e&height=120&section=footer&text=Open%20to%20research%20%26%20PhD%20opportunities&fontColor=ffffff&fontSize=18&fontAlignY=70"/>
 </p>
+
+<!-- activity note 1 -->
