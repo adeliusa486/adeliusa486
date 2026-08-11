@@ -4,7 +4,6 @@
 [![LinkedIn](https://img.shields.io/badge/-adeel--ahmad-%230A66C2?style=flat-square&logo=linkedin&logoColor=ffffff)](https://linkedin.com/in/adeel-ahmad-5a041b237)
 [![GitHub](https://img.shields.io/badge/-adeliusa486-%23181717?style=flat-square&logo=github)](https://github.com/adeliusa486)
 [![Email](https://img.shields.io/badge/-443057803%40stu.iu.edu.sa-%23EA4335?style=flat-square&logo=gmail&logoColor=ffffff)](mailto:443057803@stu.iu.edu.sa)
-[![Profile Views](https://komarev.com/ghpvc/?username=adeliusa486&style=flat-square&color=2a8f96&label=views)](https://github.com/adeliusa486)
 
 𝙄 ❤️ 𝘾𝙮𝙗𝙚𝙧𝙨𝙚𝙘𝙪𝙧𝙞𝙩𝙮, 𝘼𝙄 & 𝙉𝙚𝙩𝙬𝙤𝙧𝙠𝙨!
 
@@ -13,6 +12,14 @@
 🎓 IT student at **IUM** on a fully-funded **Saudi Government scholarship** &nbsp;·&nbsp; 📍 Madinah, Saudi Arabia
 🔭 Focused on **Explainable AI**, **Federated Learning** & **Edge Caching**
 🌱 Currently doing hands-on **TryHackMe** cybersecurity labs + **AWS SAA** & **CCNA** prep
+
+### ✨ Highlights
+
+![Research Papers](https://img.shields.io/badge/Research%20Papers-4-df563e?style=for-the-badge&logo=googlescholar&logoColor=white)
+![IEEE VTC2026](https://img.shields.io/badge/IEEE%20VTC2026-Accepted-2e9e63?style=for-the-badge&logo=ieee&logoColor=white)
+![GPA](https://img.shields.io/badge/GPA-3.99%20%2F%205.00-2a8f96?style=for-the-badge&logo=academia&logoColor=white)
+![Scholarship](https://img.shields.io/badge/Saudi%20Govt-Scholarship-f4be47?style=for-the-badge&logoColor=black)
+![Open Source](https://img.shields.io/badge/Public%20Repos-10-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ## 𝗙𝗲𝗮𝘁𝘂𝗿𝗲𝗱 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀  ·  𝗣𝗮𝗽𝗲𝗿 𝗔𝗿𝗰𝗵𝗶𝘁𝗲𝗰𝘁𝘂𝗿𝗲𝘀
 
