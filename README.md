@@ -56,7 +56,7 @@ I like 𝘾𝙮𝙗𝙚𝙧𝙨𝙚𝙘𝙪𝙧𝙞𝙩𝙮, 𝘼𝙄 & 𝙉𝙚
 ## 𝗠𝘆 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸
 
 <p>
-  <img src="https://skillicons.dev/icons?i=py,java,mysql,pytorch,sklearn,opencv,aws,docker,linux,terraform,ansible,git,bash&perline=7" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=py,java,mysql,pytorch,sklearn,GNN,WireSharkopencv,aws,docker,linux,terraform,ansible,git,bash&perline=7" alt="Tech stack" />
 </p>
 
 **Networking &amp; Simulation**
