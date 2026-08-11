@@ -15,11 +15,9 @@
 
 ### ✨ Highlights
 
-![Research Papers](https://img.shields.io/badge/Research%20Papers-4-df563e?style=for-the-badge&logo=googlescholar&logoColor=white)
 ![IEEE VTC2026](https://img.shields.io/badge/IEEE%20VTC2026-Accepted-2e9e63?style=for-the-badge&logo=ieee&logoColor=white)
-![GPA](https://img.shields.io/badge/GPA-3.99%20%2F%205.00-2a8f96?style=for-the-badge&logo=academia&logoColor=white)
-![Scholarship](https://img.shields.io/badge/Saudi%20Govt-Scholarship-f4be47?style=for-the-badge&logoColor=black)
-![Open Source](https://img.shields.io/badge/Public%20Repos-10-181717?style=for-the-badge&logo=github&logoColor=white)
+![KSCDR AI Hackathon](https://img.shields.io/badge/KSCDR%20AI%20Hackathon-Acceleration%20Phase-df563e?style=for-the-badge&logo=trophy&logoColor=white)
+![Research](https://img.shields.io/badge/Research-Published%20%26%20In%20Review-2a8f96?style=for-the-badge&logo=googlescholar&logoColor=white)
 
 ## 𝗙𝗲𝗮𝘁𝘂𝗿𝗲𝗱 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀  ·  𝗣𝗮𝗽𝗲𝗿 𝗔𝗿𝗰𝗵𝗶𝘁𝗲𝗰𝘁𝘂𝗿𝗲𝘀
 
