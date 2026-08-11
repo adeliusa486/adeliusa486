@@ -141,3 +141,5 @@ currently:   Hands-on cybersecurity labs on TryHackMe + AWS SAA & CCNA prep
 </p>
 
 <!-- activity note 1 -->
+
+<!-- activity note 2 -->
