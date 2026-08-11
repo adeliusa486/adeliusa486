@@ -23,7 +23,7 @@
       <p><b>XAI-SDN — Explainable DDoS Detection</b><br/>Flow collection → O(1) rolling-entropy features → Random Forest → SHAP explanations, feeding a real-time SDN mitigation loop.</p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/adeliusa486/TrajectoryCache"><img src="./assets/trajectorycache-arch.png" alt="TrajectoryCache architecture"/></a>
+      <a href="https://github.com/adeliusa486/TrajectoryCache"><img src="./assets/trajectorycache-architecture.png" alt="TrajectoryCache architecture"/></a>
       <p><b>TrajectoryCache — Vehicular Edge Caching</b><br/>Balancing spatial urgency and content popularity for V2X edge caching, with sub-43µs eviction decisions.</p>
     </td>
   </tr>
