@@ -59,9 +59,5 @@
 ## 𝗦𝘁𝗮𝘁𝘀
 
 <p align="center">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=adeliusa486&hide_border=true&background=FCF5E6&stroke=192a3f&ring=df563e&fire=df563e&currStreakLabel=2a8f96&sideLabels=192a3f&dates=5d6a7a&sideNums=192a3f&currStreakNum=192a3f" alt="streak"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=adeliusa486&bg_color=fcf5e6&color=192a3f&line=df563e&point=2a8f96&area_color=f8e2d8&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="activity graph"/>
 </p>
